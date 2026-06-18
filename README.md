@@ -10,7 +10,7 @@ Tuberculosis continues to be a major health challenge in India, with the highest
 1. **Data collection**
    - Downloaded MTB H37Rv reference proteome (3,980 proteins) from UniProt
    - Downloaded complete human proteome (147,506 proteins) from UniProt
-2. **Comparitive genomics (BLAST analysis)**
+2. **Comparative genomics (BLAST analysis)**
    - BLASTP was used to compare all MTB proteins against the human proteome
    - Filtered proteins with E-value > 0.001 (non-homologous to humans)
    - Identified 2,162 unique candidate proteins
